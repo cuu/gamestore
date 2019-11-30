@@ -1,7 +1,1 @@
-{
-	"list":
-	[
-		{"title":"AGENT OF SHINIGAMI","type":"game","file":"https://raw.githubusercontent.com/cuu/gamestore/master/gameshell-19q3/AGENT%20OF%20SHINIGAMI.tar.gz","shots":"https://raw.githubusercontent.com/cuu/gamestore/master/gameshell-19q3/AGENT%20OF%20SHINIGAMI.png"},
-		{"title":"quantum shooter","type":"pico8","file":"https://raw.githubusercontent.com/cuu/gamestore/master/gameshell-19q3/quantum_shooter.p8.png","shots":"https://raw.githubusercontent.com/cuu/gamestore/master/gameshell-19q3/quantum_shooter.png"}
-	]
-}
+{ "lists": [{ "type": "launcher", "title": "AGENT OF SHINIGAMI", "file": "https://raw.githubusercontent.com/cuu/gamestore/master/gameshell-19q3/AGENT%20OF%20SHINIGAMI/file/AGENT%20OF%20SHINIGAMI.tar.gz", "shots": "https://raw.githubusercontent.com/cuu/gamestore/master/gameshell-19q3/AGENT%20OF%20SHINIGAMI/shots/AGENT%20OF%20SHINIGAMI.png" }, { "type": "pico8", "title": "quantum_shooter", "file": "https://raw.githubusercontent.com/cuu/gamestore/master/gameshell-19q3/quantum_shooter/file/quantum_shooter.p8.png", "shots": "https://raw.githubusercontent.com/cuu/gamestore/master/gameshell-19q3/quantum_shooter/shots/quantum_shooter.png" }] }
