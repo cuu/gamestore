@@ -49,7 +49,7 @@
 	)
 )
 
-(set 'indexjson:lists res) 
+(set 'indexjson:list res) 
 (println (Json:Lisp->Json indexjson))
 
 
